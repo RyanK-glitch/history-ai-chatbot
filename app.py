@@ -5,7 +5,6 @@ from groq import Groq
 st.set_page_config(page_title="World History AI Bot", page_icon="📜")
 st.title("📜 World History Research Assistant")
 st.caption("Specialized strictly in World History, featuring deep expertise in Korean and Chinese historical eras.")
-# Add this line right below st.caption to show your name:
 st.sidebar.markdown("---")
 st.sidebar.markdown("👨‍💻 **Developed by: RyanK**")
 
